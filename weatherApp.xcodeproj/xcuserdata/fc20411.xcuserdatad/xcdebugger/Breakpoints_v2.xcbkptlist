@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4B1BF836-BD9C-4ABA-BBF1-860021A9C686"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9E039FBA-FC29-42B9-9E30-44094FA59211"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "weatherAppTests/WeatherDataAPIMock.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "getWeatherData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9E039FBA-FC29-42B9-9E30-44094FA59211 - 1301e364f55e04ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "weatherAppTests.WeatherDataMock.getWeatherData() -&gt; ()"
+                  moduleName = "weatherAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fc20411/Documents/demo%20project/weatherApp/weatherAppTests/WeatherDataAPIMock.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "956">
+               </Location>
+               <Location
+                  uuid = "9E039FBA-FC29-42B9-9E30-44094FA59211 - 1301e364f55e04ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "weatherAppTests.WeatherDataMock.getWeatherData() -&gt; ()"
+                  moduleName = "weatherAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fc20411/Documents/demo%20project/weatherApp/weatherAppTests/WeatherDataAPIMock.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "1016">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "00D6F3A8-66F0-4BFE-A6C9-C6A840778097"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "weatherAppTests/WeatherDataAPIMock.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "getWeatherData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "00D6F3A8-66F0-4BFE-A6C9-C6A840778097 - 1301e364f55e0581"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "weatherAppTests.WeatherDataMock.getWeatherData() -&gt; ()"
+                  moduleName = "weatherAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fc20411/Documents/demo%20project/weatherApp/weatherAppTests/WeatherDataAPIMock.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "768">
+               </Location>
+               <Location
+                  uuid = "00D6F3A8-66F0-4BFE-A6C9-C6A840778097 - 1301e364f55e0581"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "weatherAppTests.WeatherDataMock.getWeatherData() -&gt; ()"
+                  moduleName = "weatherAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fc20411/Documents/demo%20project/weatherApp/weatherAppTests/WeatherDataAPIMock.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "00D6F3A8-66F0-4BFE-A6C9-C6A840778097 - 1301e364f55e0581"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "weatherAppTests.WeatherDataMock.getWeatherData() -&gt; ()"
+                  moduleName = "weatherAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fc20411/Documents/demo%20project/weatherApp/weatherAppTests/WeatherDataAPIMock.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
